@@ -1,2 +1,2 @@
 # COVID-19-Data-Visualisation
-## Contributor: Sabina Ku
+### Contributor: Sabina Ku
